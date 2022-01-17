@@ -30,14 +30,14 @@ function wrongURI(res) {
   res.setHeader('Content-type', 'text/html');
   res.writeHead(404);
   res.end('<h1>Wrong request.</h1><p>For more info check out the spec:' +
-  ' <a href="https://github.com/messier31/cors-proxy-spec">https://github.com/messier31/cors-proxy-spec</a></p>');
+  ' <a href="https://github.com/svetokSun/githacker-base-CORS">https://github.com/svetokSun/githacker-base-CORS</a></p>');
 }
 
 function banner(res) {
   res.setHeader('Content-type', 'text/html');
   res.writeHead(200);
-  res.end('<h1>CORS PROXY SERVER</h1><p><a href="https://github.com/messier31/cors-proxy-server">' +
-    'https://github.com/messier31/cors-proxy-server</a></p>');
+  res.end('<h1>CORS PROXY SERVER</h1><p><a href="https://github.com/svetokSun/githacker-base-CORS">' +
+    'https://github.com/svetokSun/githacker-base-CORS</a></p>');
 }
 
 function limitExceed(res) {
