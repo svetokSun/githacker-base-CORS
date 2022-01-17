@@ -1,8 +1,8 @@
 {
-  "name": "cors-proxy-server",
+  "name": "githacker-base-CORS",
   "description": "Built with CORS PROXY SPEC support.",
-  "website": "https://github.com/messier31/cors-proxy-server",
-  "repository": "https://github.com/messier31/cors-proxy-server.git",
+  "website": "https://github.com/svetokSun/githacker-base-CORS",
+  "repository": "https://github.com/svetokSun/githacker-base-CORS.git",
   "keywords": [
     "cors",
     "proxy",
