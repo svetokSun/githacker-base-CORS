@@ -1,5 +1,5 @@
 {
-  "name": "cors-proxy-server",
+  "name": "githacker-base-CORS",
   "version": "1.0.0",
   "description": "CORS proxy server implemented by the spec",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/messier31/cors-proxy-server.git"
+    "url": "git+https://github.com/svetokSun/githacker-base-CORS.git"
   },
   "author": "Svetlana Linuxenko <linuxenko@yahoo.com> (http://www.linuxenko.pro)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/messier31/cors-proxy-server/issues"
+    "url": "https://github.com/svetokSun/githacker-base-CORS/issues"
   },
-  "homepage": "https://github.com/messier31/cors-proxy-server#readme",
+  "homepage": "https://github.com/svetokSun/githacker-base-CORS#readme",
   "dependencies": {
     "dotenv": "^2.0.0",
     "request": "^2.72.0"
